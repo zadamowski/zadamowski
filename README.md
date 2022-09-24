@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zadamowski
-- 👀 I’m interested in Programing, Stock Exchange. movies.
+- 👀 I’m interested in Programing, Stock Exchange and movies.
 - 🌱 I’m currently learning Python, Git
 - 📫 How to reach me: z.adamowski@gmail.com
 
